@@ -1,5 +1,5 @@
-# custom-declaration
-With this simple example, we show how to define and set declaration file for a ts module, for a custom module.
+# Define a declaration file for a custom module
+With this simple example, we show how to define and set a type definition for a custom js library, in a Typescript module.
 
 First, we write and publish on npm a "reverse with sharps" module: given an input string, it returns the reversed version with some sharps around.
 
